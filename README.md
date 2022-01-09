@@ -21,6 +21,10 @@ This is based on Python PIL library on the Chinese calendar API data processing 
 - Python 3
 - PIL module
 
+## 效果图
+
+<img src="test\result.png" alt="result"  />
+
 ## 联系方式 Contact
 
 邮箱 Email：Maiicy@foxmail.com
